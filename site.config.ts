@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null, 
 
   // basic site info (required)
-  name: 'Long Chuc',
-  domain: 'longchuc.vercel.app',
-  author: 'Long Chúc',
+  name: 'Hoang Cuong',
+  domain: 'cuong.com',
+  author: 'Hoang Cuong',
 
   // open graph metadata (optional)
   description: 'My Profile',
